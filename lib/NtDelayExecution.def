@@ -1,0 +1,3 @@
+LIBRARY ntdll.dll
+EXPORTS
+NtDelayExecution@8 @306

@@ -1,0 +1,6 @@
+[submodule "wingetopt"]
+	path = sources/wingetopt
+	url = https://github.com/alex85k/wingetopt.git
+[submodule "dirent"]
+	path = sources/dirent
+	url = https://github.com/tronkko/dirent.git
